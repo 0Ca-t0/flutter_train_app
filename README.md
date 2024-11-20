@@ -1,16 +1,33 @@
 # flutter_train_app
 
-A new Flutter project.
+기차 예매 앱
 
-## Getting Started
+---
+## 목차
+[기능](#기능)
+[사용방법](#사용방법)
+[구동사진](#구동사진)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+### 기능
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+출발역, 도착역 선택기능  
+좌석 선택기능  
+다크테마 적용   
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+#### 사용방법
+
+Visual studio code 에서 Emulator를 실행 후 run without debugging을 통해 실행
+
+---
+
+##### 구동사진
+
+![메인사진](https://github.com/0Ca-t0/flutter_train_app/blob/main/lib/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.jpg)  
+![역선택](https://github.com/0Ca-t0/flutter_train_app/blob/main/lib/%EC%97%AD%EC%84%A0%ED%83%9D.jpg)  
+![좌석선택](https://github.com/0Ca-t0/flutter_train_app/blob/main/lib/%EC%A2%8C%EC%84%9D%EC%84%A0%ED%83%9D.jpg)  
+![예매버튼](https://github.com/0Ca-t0/flutter_train_app/blob/main/lib/%EC%98%88%EB%A7%A4%EB%B2%84%ED%8A%BC.jpg)
+
